@@ -5,4 +5,8 @@ public class Demo{
      System.out.println("Demo Main Method...");
  System.out.println("Demo Main Method2...");
    }
+
+ public void doProcess(){
+
+ }
 }
